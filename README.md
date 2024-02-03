@@ -1,9 +1,9 @@
 # BookMyShow-App-Clone
 
 Pages/Components:
-    >> Home.Page.jsx (Default.Hoc.jsx)
-    >> Movie.Page.jsx (Movie.Hoc.jsx)
-    >> Play.Page.jsx (Default.Hoc.jsx)
+    >> Home.page.jsx (Default.Hoc.jsx)
+    >> Movie.page.jsx (Movie.Hoc.jsx)
+    >> Play.page.jsx (Default.Hoc.jsx)
 
 HOCs/Layouts:
     >> Default.Hoc.jsx
@@ -18,6 +18,6 @@ Components:
                  >> MovieInfo.Component.jsx
     >> Navbar >> Navbar.Component.jsx
               >> MovieNavbar.Component.jsx  
-    >> PaymentModel >> Payment.Component.jsx
+    >> PaymentModal >> Payment.Component.jsx
     >> PlayFilters >> Filters.Component.jsx
     >> PosterSlider >> PosterSlider.Component.jsx 
